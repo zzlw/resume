@@ -127,7 +127,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `张展亮
 ----
 
 资深前端工程师，资深前端讲师
