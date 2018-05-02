@@ -2,6 +2,11 @@
 
 > This is my resume
 
+[![GitHub issues](https://img.shields.io/github/issues/zzlw/resume.svg)](https://github.com/zzlw/resume/issues)
+[![GitHub forks](https://img.shields.io/github/forks/zzlw/resume.svg)](https://github.com/zzlw/resume/network)
+[![GitHub stars](https://img.shields.io/github/stars/zzlw/resume.svg)](https://github.com/zzlw/resume/stargazers)
+[![GitHub license](https://img.shields.io/github/license/zzlw/resume.svg)](https://github.com/zzlw/resume/blob/master/LICENSE)
+
 [预览](https://baby925.top/resume/public/)
 
 ## 使用方法
